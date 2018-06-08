@@ -1,0 +1,73 @@
+{
+  "lang_key": "EN Translation",
+
+  "all_pages": {
+    "text_next": "Next",
+    "text_back" : "Back",
+    "text_close" : "Close" 
+  },
+ 
+  "login": {
+    "title": "Login",
+    "req_bankid" : "Please enter valid BankID number!",
+    "req_pass": "Please enter valid Login and Password!",
+    "bankid_disabled": "This feature is temporarily disabled",
+    "link_to_passform": "Do not have BankID? Alternate login",
+    "link_to_bankid": "Login via BankID form",
+    "remember": "Remember me",
+    "login_btn": "Log In",
+    "holder_bankid": "Person number",
+    "holder_username": "Enter Login",
+    "holder_pass": "Your Password"
+   },
+  
+  "home": {
+    "title": "Welcome",
+    "error_load_notif": "Error loading notifications"
+  },
+  
+  "select_patient": {
+    "title": "Select Patient"
+  },
+  
+  "orders-list": {
+    "title": "Services"
+  },
+   
+  "order": {
+    "page_order": "Order",
+    "page_cancel": "Cancel",
+    "enter_time": "Please enter visit time!",
+    "enter_date": "Please enter visit date!"
+  },
+  
+  "document": {
+    "title": "Document"
+  },
+   
+  "confirm": {
+    "title": "Please Confirm",
+    "order_saved": "Your request was successfully saved"
+  },
+  
+  "settings": {
+    "title": "Settings"
+  },
+  
+  "diary": {
+    "title": "Diary"
+  },
+  
+  "messages": {
+    "title": "Messages"
+  },
+  
+  "food": {
+    "title": "Food Menu"
+  },
+  
+  "documents-list": {
+    "title": "Documents List"
+  }  
+ 	
+}
