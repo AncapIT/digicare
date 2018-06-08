@@ -414,7 +414,7 @@ class ProvidersController extends Controller
 		(1, 'Diary', 'n', 2, '', '', 'carelink-diary', 'diary', 'y', '|2|3', 'doc-list'),
 		(2, 'About Patient ', 'n', 10, '', '', 'ios-contact-outline', 'about_patient', 'y', '|2|3', 'doc-list'),
 		(3, 'Implementation Plan', 'n', 9, '', '', 'ios-bookmarks-outline', 'implementation_plan', 'y', '|2|3', 'doc-list'),
-		(4, 'Billboard', 'n', 6, '', '', 'carelink-care', 'billboard', 'y', '|2|3', 'doc-list'),
+		(4, 'Billboard', 'n', 6, '', '', 'app-care', 'billboard', 'y', '|2|3', 'doc-list'),
 		(5, 'Calendar', 'n', 7, '', '', 'ios-calendar-outline', 'calendar', 'y', '|2|3|4', 'doc-list'),
 		(6, 'Newsletter', 'n', 8, '', '', 'ios-paper-outline', 'newsletter', 'y', '|2|3|4', 'doc-list'),
 		(7, 'Messages', 'n', 1, '', '', 'carelink-messages', 'messaging', 'y', '|2|3|4', ''),

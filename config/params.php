@@ -65,27 +65,27 @@ $GLOBALS["menu_type"]  = [
 
 
 $GLOBALS["big_menu_icons"]  = [
-					'carelink-diary' => 'diary',
-					'carelink-orders' => 'orders',
-					'carelink-messages'  => 'messages',
+					'app-diary' => 'diary',
+					'app-orders' => 'orders',
+					'app-messages'  => 'messages',
 					'ios-contact-outline'  => 'contact',
-					'carelink-food' => 'food',
+					'app-food' => 'food',
 					'ios-paper-outline'  => 'paper-outline',
 					'ios-calendar-outline'  => 'calendar',
 					'ios-bookmarks-outline'  => 'bookmarks',
 					'ios-contacts-outline'  => 'contacts',
-					'carelink-accomp_order'  => 'accomp_order',
-					'carelink-accomp_cancel'  => 'accomp_cancel',
-					'carelink-medical'  => 'medical',
-					'carelink-cancel_visit'  => 'cancel_visit',
-					'carelink-footprint'  => 'footprint',
-					'carelink-massage'  => 'massage',
-					'carelink-care'  => 'care',
-					'carelink-dogs'  => 'dogs',
-					'carelink-cleaning'  => 'cleaning',
-					'carelink-promenad'  => 'promenad',
-					'carelink-snowman' => 'snowman',
-					'carelink-sport'  => 'sport'
+					'app-accomp_order'  => 'accomp_order',
+					'app-accomp_cancel'  => 'accomp_cancel',
+					'app-medical'  => 'medical',
+					'app-cancel_visit'  => 'cancel_visit',
+					'app-footprint'  => 'footprint',
+					'app-massage'  => 'massage',
+					'app-care'  => 'care',
+					'app-dogs'  => 'dogs',
+					'app-cleaning'  => 'cleaning',
+					'app-promenad'  => 'promenad',
+					'app-snowman' => 'snowman',
+					'app-sport'  => 'sport'
 					];
 
 $GLOBALS["product_type"]  = [

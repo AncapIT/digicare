@@ -12,10 +12,10 @@
 			$result["title"] = 'Services'; 
 			$result["page_info"] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat !'; 
 			
-			$items[0]["sub_title"] = "Order <br> Accompanier";  $items[0]["link"] = 'OrderAccompanier'; $items[0]["icon"] = 'carelink-accomp_order'; 
-			$items[1]["sub_title"] = "Cancel <br> Accompanier";  $items[1]["link"] = 'CancelAccompanier'; $items[1]["icon"] = 'carelink-accomp_cancel'; 
-			$items[2]["sub_title"] = "Pharmacy <br/> Pickup";  $items[2]["link"] = 'Pharmacy'; $items[2]["icon"] = 'carelink-medical'; 
-			$items[3]["sub_title"] = "Cancel <br/> Scheduled Visit";  $items[3]["link"] = 'CancelVisit'; $items[3]["icon"] = 'carelink-cancel_visit'; 
+			$items[0]["sub_title"] = "Order <br> Accompanier";  $items[0]["link"] = 'OrderAccompanier'; $items[0]["icon"] = 'app-accomp_order'; 
+			$items[1]["sub_title"] = "Cancel <br> Accompanier";  $items[1]["link"] = 'CancelAccompanier'; $items[1]["icon"] = 'app-accomp_cancel'; 
+			$items[2]["sub_title"] = "Pharmacy <br/> Pickup";  $items[2]["link"] = 'Pharmacy'; $items[2]["icon"] = 'app-medical'; 
+			$items[3]["sub_title"] = "Cancel <br/> Scheduled Visit";  $items[3]["link"] = 'CancelVisit'; $items[3]["icon"] = 'app-cancel_visit'; 
 			
 			$result["sub_links"] = $items; 	
 		}
@@ -30,14 +30,14 @@
 			$result["title"] = 'Additional services'; 
 			$result["page_info"] = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat !'; 
 			
-			$items[0]["sub_title"] = "Foot care";  $items[0]["link"] = 'FootCare'; $items[0]["icon"] = 'carelink-footprint'; 
-			$items[1]["sub_title"] = "Massage";  $items[1]["link"] = 'Massage'; $items[1]["icon"] = 'carelink-massage'; 
-			$items[2]["sub_title"] = "Watching";  $items[2]["link"] = 'Watching'; $items[2]["icon"] = 'carelink-care'; 
-			$items[3]["sub_title"] = "Pets";  $items[3]["link"] = 'Pets'; $items[3]["icon"] = 'carelink-dogs'; 
-			$items[4]["sub_title"] = "Extra cleaning";  $items[4]["link"] = 'ExtraCleaning'; $items[4]["icon"] = 'carelink-cleaning'; 
-			$items[5]["sub_title"] = "Promenade";  $items[5]["link"] = 'Promenade'; $items[5]["icon"] = 'carelink-promenad'; 
-			$items[6]["sub_title"] = "Snow cleaning";  $items[6]["link"] = 'Snow'; $items[6]["icon"] = 'carelink-snowman'; 
-			$items[7]["sub_title"] = "Gymnastics";  $items[7]["link"] = 'Gymnastics'; $items[7]["icon"] = 'carelink-sport'; 
+			$items[0]["sub_title"] = "Foot care";  $items[0]["link"] = 'FootCare'; $items[0]["icon"] = 'app-footprint'; 
+			$items[1]["sub_title"] = "Massage";  $items[1]["link"] = 'Massage'; $items[1]["icon"] = 'app-massage'; 
+			$items[2]["sub_title"] = "Watching";  $items[2]["link"] = 'Watching'; $items[2]["icon"] = 'app-care'; 
+			$items[3]["sub_title"] = "Pets";  $items[3]["link"] = 'Pets'; $items[3]["icon"] = 'app-dogs'; 
+			$items[4]["sub_title"] = "Extra cleaning";  $items[4]["link"] = 'ExtraCleaning'; $items[4]["icon"] = 'app-cleaning'; 
+			$items[5]["sub_title"] = "Promenade";  $items[5]["link"] = 'Promenade'; $items[5]["icon"] = 'app-promenad'; 
+			$items[6]["sub_title"] = "Snow cleaning";  $items[6]["link"] = 'Snow'; $items[6]["icon"] = 'app-snowman'; 
+			$items[7]["sub_title"] = "Gymnastics";  $items[7]["link"] = 'Gymnastics'; $items[7]["icon"] = 'app-sport'; 
 			
 			$result["sub_links"] = $items; 	
 		}

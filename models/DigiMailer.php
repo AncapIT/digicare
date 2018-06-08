@@ -34,7 +34,7 @@ class DigiMailer
             if(isset($provider->email_alerts_messages)){
 
             Yii::$app->mailer->compose()
-                ->setFrom('noreply@digicareapp.com')
+                ->setFrom('noreply@APPLICATION_URL')
                 ->setTo(explode(',', $provider->email_alerts_messages))
                 ->setSubject('DigiCare - New message from ' . $message->user->first_name . ' ' . $message->user->last_name .
                     ' regarding ' . $message->patient->first_name . ' ' . $message->patient->last_name )
@@ -101,7 +101,7 @@ class DigiMailer
             $txt .= ' Price: '.$order->price.' Click here to view: ' . $url;
 
             Yii::$app->mailer->compose()
-                ->setFrom('noreply@digicareapp.com')
+                ->setFrom('noreply@APPLICATION_URL')
                 ->setTo(explode(',', $provider->email_alerts_orders))
                 ->setSubject('DigiCare - New order for '.$order->patient->first_name.' '.$order->patient->last_name.': '.$order->order_title)
                 ->setTextBody($txt)

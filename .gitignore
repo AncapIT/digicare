@@ -25,6 +25,7 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+/migrations/start-dump.sql
 
 /config/db.php
 
